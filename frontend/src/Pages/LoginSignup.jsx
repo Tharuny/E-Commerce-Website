@@ -4,6 +4,7 @@ import './CSS/LoginSignup.css';
 const LoginSignup = () => {
   return (
     <div>
+      {/* login signup container */}
       <div className="loginsignup-container">
         <h1>Sign Up</h1>
         <div className="loginsignup-fields">
